@@ -1,0 +1,50 @@
+
+.class
+{  
+width: 400px;  
+height:450px;  
+margin: 20px auto;  
+border: 3px solid rgb(0, 0, 0);  
+border-radius: 5px;  
+padding: 20px;  
+text-align: center;  
+background-color: yellow;  
+}  
+  
+
+h1 {  
+    text-align: center;  
+    padding: 23px;  
+    background-color: violet;  
+    color: white;  
+    }  
+input:hover  
+{  
+background-color: red;  
+}  
+      
+*{  
+margin: 0;  
+padding: 0;  
+}  
+  
+
+.btn{  
+width: 70px;  
+height: 70px;  
+font-size: 25px;  
+margin: 2px;  
+cursor: pointer;  
+background-color: blue;  
+color: white;  
+  
+}  
+  
+.textview{  
+width: 223px;  
+margin: 5px;  
+font-size: 25px;  
+padding: 5px;  
+background-color: lightgreen;  
+}     
+      
